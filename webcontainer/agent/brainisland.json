@@ -1,7 +1,7 @@
 {
   "$jason": {
     "head": {
-      "title": "Jasonbase",
+      "title": "Brainisland international school",
       "actions": {
         "visit": [
           {
@@ -26,7 +26,7 @@
     "body": {
       "background": {
         "type": "html",
-        "url": "https://www.jasonbase.com",
+        "url": "http://brainislandschool.com/brainisland/",
         "action": {
           "trigger": "visit"
         }
