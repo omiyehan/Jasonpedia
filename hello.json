@@ -26,7 +26,7 @@
               "components": [
                 {
                   "type": "label",
-                  "text": "It's ALIVE!",
+                  "text": "WELCOME TO BRAINISLAND INTERNATIIONAL SCHOOL",
                   "style": {
                     "align": "center",
                     "font": "Courier-Bold",
@@ -35,7 +35,7 @@
                 },
                 {
                   "type": "label",
-                  "text": "This is a demo app. You can make your own app by changing the url inside settings.plist",
+                  "text": "This is our mobile app for parents, students and teacher",
                   "style": {
                     "align": "center",
                     "font": "Courier",
@@ -63,9 +63,9 @@
                 "font": "HelveticaNeue",
                 "size": "12"
               },
-              "text": "Check out Live DEMO",
+              "text": "PARENTS LOGIN",
               "href": {
-                "url": "https://jasonette.github.io/Jasonpedia/demo.json",
+                "url": "http://brainislandschool.com/brainisland/site/userlogin",
                 "fresh": "true"
               }
             },
@@ -78,9 +78,9 @@
                 "font": "HelveticaNeue",
                 "size": "12"
               },
-              "text": "Watch the tutorial video",
+              "text": "STUDENT LOGIN",
               "href": {
-                "url": "https://brainislandschool.com",
+                "url": "http://brainislandschool.com/brainisland/site/userlogin",
                 "view": "Web"
               }
             },
@@ -93,9 +93,9 @@
                 "font": "HelveticaNeue",
                 "size": "12"
               },
-              "text": "View documentation",
+              "text": "TEACHERS LOGIN",
               "href": {
-                "url": "https://jasonette.github.io/documentation",
+                "url": "http://brainislandschool.com/brainisland/site/userlogin",
                 "view": "Web"
               }
             }
